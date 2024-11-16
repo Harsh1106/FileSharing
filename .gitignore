@@ -1,0 +1,39 @@
+# Node.js dependencies
+node_modules/
+
+# Next.js build output
+.next/
+
+# Firebase files and cache
+.firebase/
+firebase-debug.log
+firebase-error.log
+
+# Firebase Admin SDK keys
+*.json
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+
+# System and editor-specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Linting and formatting
+.eslintcache
+.prettiercache
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
